@@ -1,0 +1,26 @@
+{
+  "name": "repo-1",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerthi-Kumar/repo-1.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Keerthi Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keerthi-Kumar/repo-1/issues"
+  },
+  "homepage": "https://github.com/Keerthi-Kumar/repo-1#readme",
+  "dependencies": {
+    "mongoose": "^5.4.1",
+    "underscore": "^1.9.1"
+  }
+}
